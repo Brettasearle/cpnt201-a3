@@ -1,0 +1,24 @@
+/* background */
+body {
+  background: linear-gradient(#e66465, #9198e5);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+/* svg */
+div {
+  width: 496px;
+  height: 496px;
+  background-size: cover;
+  margin: auto;
+}
+/* mirror app text*/
+h1 {
+  font-size: 80px;
+  background: -webkit-linear-gradient(#7FFFD4, #87CEEB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Krona One', sans-serif;
+  text-align: center;
+}
+
+
